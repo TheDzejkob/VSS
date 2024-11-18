@@ -1,0 +1,1 @@
+VSS (very simple snake)
